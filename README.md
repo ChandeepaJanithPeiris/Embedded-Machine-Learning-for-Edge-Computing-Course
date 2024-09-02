@@ -10,4 +10,8 @@ This project involves building a motion recognition system that runs on a microc
 
 [Project Link](https://studio.edgeimpulse.com/public/513208/live)
 
+## Assigement 4: Implementing a TinyML Model for Sine Wave Prediction on Arduino
+This demonstrates a practical application of TinyML by implementing a sine wave prediction model on an Arduino Uno v3. The project involves creating a simple machine learning model using basic arithmetic operations to predict sine wave values and control the brightness of an LED. It covers all aspects of working with TinyML in a resource-constrained environment, including model implementation, data handling, and hardware integration.
+
+
 
